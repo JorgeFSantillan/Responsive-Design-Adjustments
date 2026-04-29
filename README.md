@@ -1,5 +1,5 @@
 
-  <h1>Responsive Design Adjustments</h1>
+  <h1>Responsive Design Adjustments (Page 4)</h1>
 
   <p>
     The homepage was reviewed across desktop and mobile screen sizes to evaluate
@@ -29,10 +29,13 @@
   </p>
 
   <p>
-    <a href="images/homepage.png">View desktop layout</a>
+    <a href="homepage.png">View desktop layout</a>
   </p>
 
   <p>
-    <a href="images/mobile-view.png">View mobile layout</a>
+    <a href="Homepage-Mobile.png">View mobile layout</a>
   </p>
-</section>
+  
+  <br>
+  
+[Return to Page 1 ](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
