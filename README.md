@@ -27,14 +27,17 @@
     This helped maintain a clear reading flow across screen sizes while keeping
     the main content, supporting text, and call-to-action easy to follow.
   </p>
+  
+<br>
 
-  <p>
-    <a href="homepage.png">View desktop layout</a>
-  </p>
+> Visual Comparison Below 
 
-  <p>
-    <a href="Homepage-Mobile.png">View mobile layout</a>
-  </p>
+<br>
+
+  <a href="homepage.png">View desktop layout</a>
+ 
+  <a href="Homepage-Mobile.png">View mobile layout</a>
+
   
   <br>
   
