@@ -36,7 +36,7 @@
 
   <a href="homepage.png">View desktop layout</a>
  
-  <a href="Homepage-Mobile.png">View mobile layout</a>
+  <a href="Homepage-mobile.png">View mobile layout</a>
 
   
   <br>
