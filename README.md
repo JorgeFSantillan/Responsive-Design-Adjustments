@@ -1,44 +1,37 @@
+<h1>Responsive Design Adjustments (Page 4)</h1>
 
-  <h1>Responsive Design Adjustments (Page 4)</h1>
+<p>
+The homepage is reviewed across desktop and mobile screen sizes to evaluate how the layout responds to different viewport widths.
+</p>
 
-  <p>
-    The homepage was reviewed across desktop and mobile screen sizes to evaluate
-    how the layout responded to different viewport widths.
-  </p>
+<p>
+On desktop, the layout uses wider content areas, two-column sections, and increased spacing to create a more open structure. On mobile, the layout shifts to a single-column flow, allowing content to stack vertically and remain easy to read.
+</p>
 
-  <p>
-    On desktop, the layout used wider content areas, two-column sections, and
-    larger spacing to create a more open page structure. On mobile, the layout
-    adjusted into a single-column flow so content could stack vertically and
-    remain easy to read.
-  </p>
+<p>Key responsive adjustments include:</p>
 
-  <p>Key responsive adjustments included:</p>
+<ul>
+<li>Multi-column sections collapse into stacked mobile layouts</li>
+<li>Images scale to fit smaller screen widths</li>
+<li>Headings and text adjust for readability</li>
+<li>Buttons remain visible and easy to access</li>
+<li>Section spacing is reduced for smaller screens</li>
+</ul>
 
-  <ul>
-    <li>Multi-column sections collapsed into stacked mobile sections</li>
-    <li>Images scaled to fit smaller screen widths</li>
-    <li>Headings and text were adjusted for readability</li>
-    <li>Buttons remained visible and easy to access</li>
-    <li>Section spacing was reduced to better fit mobile screens</li>
-  </ul>
-
-  <p>
-    This helped maintain a clear reading flow across screen sizes while keeping
-    the main content, supporting text, and call-to-action easy to follow.
-  </p>
-  
-<br>
-
-> Visual Comparison Below 
+<p>
+This maintains a clear reading flow across screen sizes while keeping the main content, supporting text, and call-to-action easy to follow.
+</p>
 
 <br>
 
-  <a href="homepage.png">View desktop layout</a>
- 
-  <a href="Homepage-mobile.png">View mobile layout</a>
+> Visual comparison below
 
-  
-  <br>
-  
-[Return to Page 1 ](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
+<br>
+
+<a href="homepage.png">View Desktop Layout</a>
+
+<a href="Homepage-mobile.png">View Mobile Layout</a>
+
+<br>
+
+[Return to Page 1](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
